@@ -1,0 +1,16 @@
+{
+  "name": "sdc-automated-testing",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3",
+    "vite": "^8.3.6"
+  }
+}
